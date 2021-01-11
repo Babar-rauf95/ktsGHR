@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" restorationIdentifier="HomeHeader" id="iN0-l3-epB" customClass="HomeHeader" customModule="keptToShare" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SbL-Ty-fKz">
+                    <rect key="frame" x="93" y="10" width="228" height="1"/>
+                    <color key="backgroundColor" red="0.4392156862745098" green="0.4392156862745098" blue="0.4392156862745098" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="53B-zE-REQ"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Spouse" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Keh-cT-Ixk">
+                    <rect key="frame" x="8.0000000000000036" y="15" width="57.333333333333343" height="20"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gEV-H5-OUE">
+                    <rect key="frame" x="360" y="10" width="46" height="30"/>
+                    <state key="normal" title="Button"/>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="SbL-Ty-fKz" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="93" id="309-e0-6ON"/>
+                <constraint firstItem="Keh-cT-Ixk" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="5Gc-4M-1xs"/>
+                <constraint firstItem="SbL-Ty-fKz" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="AEQ-nh-Lun"/>
+                <constraint firstItem="SbL-Ty-fKz" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="10" id="bbN-tr-llT"/>
+                <constraint firstItem="Keh-cT-Ixk" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="8" id="blN-5z-VBR"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="gEV-H5-OUE" secondAttribute="trailing" constant="8" id="ddE-6c-twd"/>
+                <constraint firstItem="gEV-H5-OUE" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="kB9-xf-c5N"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="btnPlus" destination="gEV-H5-OUE" id="Hhb-F4-rol"/>
+                <outlet property="lblHeader" destination="Keh-cT-Ixk" id="n3d-mu-Av0"/>
+                <outlet property="separatorView" destination="SbL-Ty-fKz" id="7HI-jF-L1s"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="-253.53260869565219"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

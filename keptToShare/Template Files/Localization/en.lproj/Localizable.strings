@@ -1,0 +1,179 @@
+/* 
+  Localizable.strings
+  Utorny
+
+  Created by Mac Book on 29/12/2019.
+  Copyright © 2019 Ingic. All rights reserved.
+*/
+"Alert" = "Alert";
+"Error" = "Error";
+"Unknown error" = "Unknown error";
+"Yes" = "Yes";
+"No" = "No";
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+"Continue" = "Continue";
+"Confirm" = "Confirm";
+"Later" = "Later";
+"Success" = "Success";
+"Confirmation" = "Confirmation";
+"A verification PIN has been sent to your provided email address." = "A verification PIN has been sent to your provided email address.";
+
+//MARK:- Validation
+"Please provide your valid email address or mobile number to login." = "Please provide your valid email address or mobile number to login.";
+"Please upload your profile picture." = "Please upload your profile picture.";
+"Name should contain atleast 3 characters." = "Name should contain atleast 3 characters.";
+"First name should contain atleast 3 characters." = "First name should contain atleast 3 characters.";
+"Last name should contain atleast 3 characters." = "Last name should contain atleast 3 characters.";
+"Please provide a valid Email Address." = "Please provide a valid Email Address.";
+"Please provide a valid Phone Number." = "Please provide a valid Phone Number.";
+"Please provide a valid OTP Code." = "Please provide a valid OTP Code.";
+"Please select your country." = "Please select your country.";
+"Please enter your city." = "Please enter your city.";
+"Please enter your zip code." = "Please enter your zip code.";
+"Please provide password." = "Please provide password.";
+"Please confirm your password." = "Please confirm your password.";
+"Password should contain minimum of 8 characters." = "Password should contain minimum of 8 characters.";
+"Password should contain minimum of 8 characters with atleast 1 uppercase, 1 lowercase and 1 digit." = "Password should contain minimum of 8 characters with atleast 1 uppercase, 1 lowercase and 1 digit.";
+"At least 6 characters." = "At least 6 characters.";
+"New password and confirm password does not match." = "New password and confirm password does not match.";
+"All Fields are required!" = "All Fields are required!";
+"Please provide complete PIN." = "Please provide complete PIN.";
+"You have successfully updated your password." = "You have successfully updated your password.";
+"Invalid URL" = "Invalid URL";
+"Logout" = "Logout";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+
+"Unable to connect server\n Please check your internet connection and try again later." = "Unable to connect server\n Please check your internet connection and try again later.";
+"Invalid Authentication Token Supplied." = "Invalid Authentication Token Supplied.";
+"Password updated successfully." = "Password updated successfully.";
+"Message delivered" = "Message delivered";
+"Our team will respond you shortly." = "Our team will respond you shortly.";
+
+//MARK:- Confirmations
+"Sign-up" = "Sign-up";
+"Sign-up successfully\nPlease login to continue." = "Sign-up successfully\nPlease login to continue.";
+
+"By using Utorny you agree to the Terms of Services and Privacy Policy" = "By using Utorny you agree to the Terms of Services and Privacy Policy";
+"You agree to the Terms and Conditions of Utorny App" = "You agree to the Terms and Conditions of Utorny App";
+
+
+//MARK:- Applications specific strings
+"Please enter credential to login as user" = "Please enter credential to login as user";
+"Please enter credential to login as lawyer" = "Please enter credential to login as lawyer";
+"Skip" = "Skip";
+
+"Notification" = "Notification";
+"Language" = "Language";
+"Edit Profile" = "Edit Profile";
+"Change Password" = "Change Password";
+"Terms and Conditions" = "Terms and Conditions";
+"About us" = "About us";
+"Rate the app" = "Rate the app";
+"Contact Us" = "Contact Us";
+"Sign Out" = "Sign Out";
+"Sign In" = "Sign In";
+
+"Old" = "Old";
+"New" = "New";
+"On Going" = "On Going";
+"Past Cases" = "Past Cases";
+"My Cases" = "My Cases";
+
+//MARK:- Controller titles
+"Settings" = "Settings";
+"Terms of Services" = "Terms of Services";
+"Privacy Policy" = "Privacy Policy";
+"Add a new case" = "Add a new case";
+"All Categories" = "All Categories";
+"Schedule Date" = "Schedule Date";
+"Case Files" = "Case Files";
+"My Bids" = "My Bids";
+"My Appeals" = "My Appeals";
+
+"Guest" = "Guest";
+"Please select your city." = "Please select your city.";
+"Please select payment plan." = "Please select payment plan.";
+"Please enter your legal permit number." = "Please enter your legal permit number.";
+"Verification code has been sent to phone number." = "Verification code has been sent to phone number.";
+"Please verify your account" = "Please verify your account";
+
+"Male" = "Male";
+"Female" = "Female";
+
+"Please select location" = "Please select location";
+"Please select category" = "Please select category";
+"Please enter title" = "Please enter title";
+"Please select budget" = "Please select budget";
+"Please select amount type" = "Please select amount type";
+"Please select case type" = "Please select case type";
+"Please enter case detail" = "Please enter case detail";
+
+"You have posted a new case successfully" = "You have posted a new case successfully";
+
+"No schedules available." = "No schedules available.";
+"When you have schedules, you'll see them here." = "When you have schedules, you'll see them here.";
+
+"No new case(s) available." = "No new case(s) available.";
+"When you have new case(s), you'll see them here." = "When you have new case(s), you'll see them here.";
+
+"No ongoing case(s) available." = "No ongoing case(s) available.";
+"When you have ongoing case(s), you'll see them here." = "When you have ongoing case(s), you'll see them here.";
+
+"No past case(s) available." = "No past case(s) available.";
+"When you have past case(s), you'll see them here." = "When you have past case(s), you'll see them here.";
+
+"No bid(s) available." = "No bid(s) available.";
+"When you have bid(s), you'll see them here." = "When you have bid(s), you'll see them here.";
+
+"No notification(s) available." = "No notification(s) available.";
+"When you have notification(s), you'll see them here." = "When you have notification(s), you'll see them here.";
+
+"No conversation(s) available." = "No conversation(s) available.";
+"When you have conversation(s), you'll see them here." = "When you have conversation(s), you'll see them here.";
+
+"Are you sure, you want to accept this proposal?" = "Are you sure, you want to accept this proposal?";
+"Are you sure, you want to decline this proposal?" = "Are you sure, you want to decline this proposal?";
+"Are you sure, you want to suggest new quote?" = "Are you sure, you want to suggest new quote?";
+"Invalid suggested quote" = "Invalid suggested quote";
+"PROPOSAL ACCEPTED" = "PROPOSAL ACCEPTED";
+"Proposal accepted by client on" = "Proposal accepted by client on";
+"Case completed on" = "Case completed on";
+"Recent" = "Recent";
+"Case" = "Case";
+"Status" = "Status";
+"MARK COMPLETE" = "MARK COMPLETE";
+"Please rate your lawyer's service" = "Please rate your lawyer's service";
+"Please rate your client's service" = "Please rate your client's service";
+"Your case has been mark completed. Please take out this and review your client now." = "Your case has been mark completed. Please take out this and review your client now.";
+
+"Photo already added." = "Photo already added.";
+"Video already added." = "Video already added.";
+"Document already added." = "Document already added.";
+
+"Photo added successfully." = "Photo added successfully.";
+"Video added successfully." = "Video added successfully.";
+"Document added successfully." = "Document added successfully.";
+"Document format not supported!" = "Document format not supported!";
+
+"Upload document image" = "Upload document image";
+"How do you want to set your document image?" = "How do you want to set your document image?";
+"Gallery" = "Gallery";
+"Camera" = "Camera";
+"Add a message for the client" = "Add a message for the client";
+"You have successfully bid this case." = "You have successfully bid this case.";
+
+"Please enter your bio" = "Please enter your bio";
+"Please select you language(s)" = "Please select your language(s)";
+"Please select you category/categories" = "Please select you category/categories";
+"Please enter your successfull cases in career" = "Please enter your successfull cases in career";
+"Please select your gender" = "Please select your gender";
+"Please select your date of birth" = "Please select your date of birth";
+"Please enter your valid permit number" = "Please enter your valid permit number";
+"Please verify your identity" = "Please verify your identity";
+
+"To change language you have to re-start your application" = "To change language you have to re-start your application";
+"AED" = "AED";
+"Yes, mark my case urgent (" = "Yes, mark my case urgent (";
+"Yes, mark my case featured (" = "Yes, mark my case featured (";
+"Per Day)" = "Per Day)";

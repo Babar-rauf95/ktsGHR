@@ -1,0 +1,6 @@
+framework module Pods_keptToShareTests {
+  umbrella header "Pods-keptToShareTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

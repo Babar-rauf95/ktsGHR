@@ -1,0 +1,97 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AWSCore (2.9.10)
+  - AWSS3 (2.9.10):
+    - AWSCore (= 2.9.10)
+  - DropDown (2.3.13)
+  - GoogleMaps/Base (3.2.0)
+  - GooglePlaces (3.2.0):
+    - GoogleMaps/Base (= 3.2.0)
+  - IQKeyboardManagerSwift (6.4.2)
+  - LGSideMenuController (2.1.1)
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+  - ObjectMapper (4.2.0)
+  - "ObjectMapper+Realm (0.9)":
+    - ObjectMapper
+    - RealmSwift
+  - PhoneNumberKit (3.3.1):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.1)
+    - PhoneNumberKit/UIKit (= 3.3.1)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.1)
+  - PhoneNumberKit/UIKit (3.3.1):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - PieCharts (0.0.7)
+  - Realm (3.17.3):
+    - Realm/Headers (= 3.17.3)
+  - Realm/Headers (3.17.3)
+  - RealmSwift (3.17.3):
+    - Realm (= 3.17.3)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - AWSS3 (~> 2.9.10)
+  - DropDown (~> 2.3.13)
+  - GooglePlaces (~> 3.2.0)
+  - IQKeyboardManagerSwift (~> 6.4.0)
+  - LGSideMenuController (~> 2.1.1)
+  - NVActivityIndicatorView (~> 4.7.0)
+  - "ObjectMapper+Realm (~> 0.6)"
+  - PhoneNumberKit (~> 3.3)
+  - PieCharts (~> 0.0.7)
+  - Realm (~> 3.17.0)
+  - RealmSwift (~> 3.17.0)
+  - SDWebImage (~> 5.0.6)
+  - SwiftyJSON (~> 5.0.0)
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AWSCore
+    - AWSS3
+    - DropDown
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+    - LGSideMenuController
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - "ObjectMapper+Realm"
+    - PhoneNumberKit
+    - PieCharts
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AWSCore: 22b6bbc6761ca9981d878155d11bc02edd681a64
+  AWSS3: fe0221519fe4d05adf4c3fdf0cb4477f5e433ee6
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  GoogleMaps: 5046d7edfe381c1a0b20fdaf293915a375c3122b
+  GooglePlaces: 41bc2e480816b1234a48f4bec92e1c886f37cfe1
+  IQKeyboardManagerSwift: 79a3ec200dfb41cb66a89b8575417b5378107c5d
+  LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  "ObjectMapper+Realm": 5494d4d39574a2b63a8a6a856ce2457b957e2f46
+  PhoneNumberKit: ff153d5e299f6da566cb73c6aa71e354933b2932
+  PieCharts: 30e50dfa7dc19e5b84e9878d32089673ef5d0453
+  Realm: 5a1d9d47bfc101dd597668b1a8af4288a2557f6d
+  RealmSwift: b7fdc2d18616621c31df5c7a398a45a2163f8eb0
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 25d268be3741b51e5c49bda7ae2451d29df0bb9d
+
+COCOAPODS: 1.10.0

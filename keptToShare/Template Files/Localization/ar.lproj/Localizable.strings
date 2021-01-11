@@ -1,0 +1,214 @@
+/* 
+  Localizable.strings
+  Utorny
+
+  Created by Mac Book on 29/12/2019.
+  Copyright © 2019 Ingic. All rights reserved.
+*/
+"Alert" = "إنذار";
+"Error" = "خطأ";
+"Unknown error" = "خطأ غير معروف";
+"Yes" = "نعم";
+"No" = "لا";
+"Ok" = "Ok";
+"Cancel" = "إلغاء ";
+"Continue" = "استمر";
+"Confirm" = "تأكيد";
+"Later" = "في وقت لاحق";
+"Success" = "نجاح";
+"Confirmation" = "التأكيد";
+
+//---------
+"A verification PIN has been sent to your provided email address." = "تم إرسال رقم تعريف شخصي للتحقق إلى عنوان بريدك الإلكتروني المقدم.";
+
+//MARK:- Validation
+"Please provide your valid email address or mobile number to login." = "يرجى تقديم عنوان بريدك الإلكتروني أو رقم الجوال الصحيح لتسجيل الدخول.";
+"Please upload your profile picture." = "يرجى تحميل صورة ملفك الشخصي.";
+"Name should contain atleast 3 characters." = "يجب أن يحتوي الاسم على 3 أحرف على الأقل.";
+"First name should contain atleast 3 characters." = "يجب أن يحتوي الاسم الأول على 3 أحرف على الأقل.";
+"Last name should contain atleast 3 characters." = "يجب أن يحتوي اسم العائلة على 3 أحرف على الأقل.";
+"Please provide a valid Email Address." = "يرجى تقديم عنوان بريد إلكتروني صالح.";
+"Please provide a valid Phone Number." = "يرجى تقديم رقم هاتف صالح.";
+"Please provide a valid OTP Code." = "يرجى تقديم رمز OTP صالح.";
+//---------
+
+"Please select your country." = "اختر الدولة";
+"Please enter your city." = "اختر المدينة";
+
+//---------
+"Please enter your zip code." = "الرجاء إدخال الرمز البريدي الخاص بك.";
+//---------
+
+"Please provide password." = "ادخل كلمة المرور ";
+"Please confirm your password." = "ادخل تأكيد كلمة المرور";
+
+//---------
+"Password should contain minimum of 8 characters." = "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل.";
+"Password should contain minimum of 8 characters with atleast 1 uppercase, 1 lowercase and 1 digit." = "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل بأحرف كبيرة على الأقل وحرف صغير واحد ورقم واحد.";
+"At least 6 characters." = "على الأقل 6 خانات.";
+"New password and confirm password does not match." = "كلمة المرور الجديدة وتأكيد كلمة المرور غير متطابقة.";
+"All Fields are required!" = "جميع الحقول مطلوبة!";
+"Please provide complete PIN." = "يرجى تقديم PIN الكامل.";
+"You have successfully updated your password." = "لقد نجحت في تحديث كلمة المرور الخاصة بك.";
+"Invalid URL" = "URL غير صالح";
+"Logout" = "تسجيل خروج";
+"Are you sure you want to logout?" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+
+"Unable to connect server\n Please check your internet connection and try again later." = "يتعذر الاتصال بالخادم يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى لاحقًا.";
+"Invalid Authentication Token Supplied." = "رمز المصادقة غير صالح الموفر.";
+"Password updated successfully." = "تم تحديث كلمة السر بنجاح.";
+"Message delivered" = "الرسالة وصلت";
+"Our team will respond you shortly." = "سوف يقوم فريقنا بالرد عليك قريبًا.";
+//---------
+
+//MARK:- Confirmations
+"Sign-up" = "Sign-up";
+"Sign-up successfully\nPlease login to continue." = "اشترك بنجاح الرجاء تسجيل الدخول للمتابعة.";
+
+"By using Utorny you agree to the Terms of Services and Privacy Policy" = "بإستخدام تطبيق يوترني انت توافق على شروط الخدمة و سياسة الخصوصية";
+"You agree to the Terms and Conditions of Utorny App" = "انت موافق على الشروط والأحكام الخاصة بتطبيق يوتورني";
+
+
+//MARK:- Applications specific strings
+"Please enter credential to login as user" = "الرجاء ادخال الاعتماد لتسجيل الدخول";
+"Please enter credential to login as lawyer" = "الرجاء ادخال الاعتماد لتسجيل الدخول ";
+"Skip" = "تخطي";
+
+"Notification" = "الإشعارات";
+"Language" = "اللغة";
+"Edit Profile" = "تعديل الصفحة الشخصية";
+"Change Password" = "تغيير كلمة المرور";
+"Terms and Conditions" = "الشروط والأحكام";
+"About us" = "معلومات عنا";
+//---------
+"Rate the app" = "قيم التطبيق";
+"Contact Us" = "اتصل بنا";
+//---------
+"Sign Out" = "تسجيل الخروج";
+"Sign In" = "تسجيل الدخول ";
+
+"Old" = "القديمة";
+"New" = "جديد";
+"On Going" = "جاري التنفيذ";
+"Past Cases" = "القضايا الماضية";
+"My Cases" = "قضاياتي";
+
+//MARK:- Controller titles
+"Settings" = "الإعدادات";
+"Terms of Services" = "شروط الخدمة";
+"Privacy Policy" = "سياسة الخصوصية";
+"Add a new case" = "اضافة قضية جديدة";
+"All Categories" = "كل الفئات";
+"Schedule Date" = "جدول المواعيد";
+"Case Files" = "ملف قضية";
+"My Bids" = "مناقصاتي";
+"My Appeals" = "استئناف";
+
+"Guest" = "ضيف";
+"Please select your city." = "اختر المدينة";
+"Please select payment plan." = "اختر خطة الدفع";
+"Please enter your legal permit number." = "رقم التصريح القانوني";
+//---------
+"Verification code has been sent to phone number." = "تم إرسال رمز التحقق إلى رقم الهاتف";
+"Please verify your account" = "يرجى التحقق من حسابك";
+//---------
+
+"Male" = "ذكر";
+"Female" = "انثي";
+
+"Please select location" = "اختر الموقع";
+"Please select category" = "اختر الفئة";
+"Please enter title" = "أدخل عنوان";
+"Please select budget" = "اختيار الميزانية";
+//---------
+"Please select amount type" = "حدد نوع المبلغ";
+//---------
+"Please select case type" = "اختر نوع القضية";
+"Please enter case detail" = "إدخال تفاصيل القضية";
+//---------
+"You have posted a new case successfully" = "لقد نشرت حالة جديدة بنجاح";
+//---------
+
+//---------
+"No schedules available." = "لا الجداول المتاحة.";
+"When you have schedules, you'll see them here." = "عندما يكون لديك جداول ، سترى لهم هنا.";
+
+"No new case(s) available." = "لا توجد حالة (حالات) جديدة متاحة.";
+"When you have new case(s), you'll see them here." = "عندما يكون لديك حالة (حالات) جديدة ، فستراها هنا.";
+
+"No ongoing case(s) available." = "لا توجد حالة (حالات) متوفرة.";
+"When you have ongoing case(s), you'll see them here." = "عندما يكون لديك حالة (حالات) جارية ، سترىها هنا.";
+
+"No past case(s) available." = "لا توجد حالة (حالات) سابقة متاحة.";
+"When you have past case(s), you'll see them here." = "عندما يكون لديك حالة (حالات) سابقة ، فستراها هنا.";
+
+"No bid(s) available." = "لا يوجد عروض (عروض) متوفرة.";
+"When you have bid(s), you'll see them here." = "عندما يكون لديك مزايدة ، ستراهم هنا.";
+
+"No notification(s) available." = "لا إخطار (ق) المتاحة.";
+"When you have notification(s), you'll see them here." = "عندما يكون لديك إشعار (إشعارات) ، سترى لهم هنا.";
+
+"No conversation(s) available." = "لا محادثة (ق) المتاحة.";
+"When you have conversation(s), you'll see them here." = "عندما يكون لديك محادثة (محادثات) ، سترى لهم هنا.";
+
+"Are you sure, you want to accept this proposal?" = "هل أنت متأكد أنك تريد قبول هذا الاقتراح؟";
+"Are you sure, you want to decline this proposal?" = "هل أنت متأكد أنك تريد رفض هذا الاقتراح؟";
+"Are you sure, you want to suggest new quote?" = "هل أنت متأكد من أنك تريد اقتراح اقتباس جديد؟";
+"Invalid suggested quote" = "اقتباس مقترح غير صالح";
+"PROPOSAL ACCEPTED" = "تم قبول الاقتراح";
+"Proposal accepted by client on" = "تم قبول الاقتراح من قبل العميل بتاريخ";
+"Case completed on" = "الانتهاء من القضية في";
+"Recent" = "الحالات";
+"Case" = "قضية";
+"Status" = "الحالة";
+//---------
+
+"MARK COMPLETE" = "علامة كاملة";
+"Please rate your lawyer's service" = "الرجاء تقييم المحامي الخدمة";
+
+//---------
+"Please rate your client's service" = "يرجى تقييم خدمة عميلك";
+"Your case has been mark completed. Please take out this and review your client now." = "تم الانتهاء من حالتك. يرجى إخراج هذا ومراجعة عميلك الآن.";
+
+"Photo already added." = "تمت إضافة الصورة بالفعل.";
+"Video already added." = "تمت إضافة الفيديو بالفعل.";
+"Document already added." = "الوثيقة المضافة بالفعل.";
+
+"Photo added successfully." = "تمت إضافة الصورة بنجاح.";
+"Video added successfully." = "تمت إضافة الفيديو بنجاح.";
+"Document added successfully." = "تمت إضافة المستند بنجاح.";
+"Document format not supported!" = "تنسيق المستند غير مدعوم!";
+
+"Upload document image" = "تحميل صورة الوثيقة";
+"How do you want to set your document image?" = "كيف تريد ضبط صورة المستند؟";
+"Gallery" = "صالة عرض";
+"Camera" = "الة تصوير";
+//---------
+
+"Add a message for the client" = "إضافة رساله للعميل";
+
+//---------
+"You have successfully bid this case." = "لقد قمت بنجاح محاولة هذه القضية.";
+//---------
+
+"Please enter your bio" = "ادخل المعلومات الشخصية ";
+
+//---------
+"Please select you language(s)" = "يرجى اختيار لغتك (لغاتك)";
+"Please select you category/categories" = "يرجى اختيار فئة / فئات لك";
+"Please enter your successfull cases in career" = "الرجاء إدخال الحالات الناجحة في حياتك المهنية";
+//---------
+
+"Please select your gender" = "اختر الجنس";
+"Please select your date of birth" = "ادخل تاريخ الميلاد (يوم/شهر/سنة)";
+"Please enter your valid permit number" = "ادخل رقم التصريح ";
+
+//---------
+"Please verify your identity" = "يرجى التحقق من هويتك";
+"To change language you have to re-start your application" = "لتغيير اللغة ، يجب عليك إعادة تشغيل التطبيق الخاص بك";
+//---------
+
+"AED" = "درهم";
+"Yes, mark my case urgent (" = "نعم، حدد قضيتي مستعجله (";
+"Yes, mark my case featured (" = "نعم، عرض قضيتي (";
+"Per Day)" = " لليوم الواحد)";
